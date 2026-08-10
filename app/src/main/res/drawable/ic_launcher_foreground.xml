@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Main Spaceship Body -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,30L78,85L54,75L30,85Z" />
+
+    <!-- Cockpit -->
+    <path
+        android:fillColor="#E0F7FA"
+        android:pathData="M51,55a3,3 0 1,0 6,0a3,3 0 1,0 -6,0" />
+
+    <!-- Laser Shot being fired -->
+    <path
+        android:fillColor="#FF1744"
+        android:pathData="M53,5h2v15h-2z" />
+
+    <!-- Engine Fire -->
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M49,78l5,15l5,-15z" />
+
+</vector>

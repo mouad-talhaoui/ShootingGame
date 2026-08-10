@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Deep Dark Space -->
+    <path
+        android:fillColor="#050510"
+        android:pathData="M0,0h108v108h-108z" />
+    <!-- Distant Stars -->
+    <path
+        android:fillColor="#40FFFFFF"
+        android:pathData="M10,10h1v1h-1zM30,40h1v1h-1zM70,20h1v1h-1zM90,50h1v1h-1zM50,80h1v1h-1zM20,90h1v1h-1zM80,85h1v1h-1zM45,15h1v1h-1z" />
+    <!-- Neon Grid Effect at the bottom -->
+    <path
+        android:strokeColor="#1A00E5FF"
+        android:strokeWidth="0.5"
+        android:pathData="M0,80 L108,80 M0,85 L108,85 M0,90 L108,90 M0,95 L108,95 M0,100 L108,100" />
+</vector>

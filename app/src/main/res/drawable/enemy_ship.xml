@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportWidth="80"
+    android:viewportHeight="80">
+    <!-- Outer Glow -->
+    <path
+        android:fillColor="#40FF1744"
+        android:pathData="M40,70 L5,10 L40,20 L75,10 Z" />
+    <!-- Main Body -->
+    <path
+        android:fillColor="#FF1744"
+        android:pathData="M40,65 L10,12 L40,22 L70,12 Z" />
+    <!-- Core -->
+    <path
+        android:fillColor="#FF8A80"
+        android:pathData="M37,30a3,3 0 1,0 6,0a3,3 0 1,0 -6,0" />
+    <!-- Engine -->
+    <path
+        android:fillColor="#AA00FF"
+        android:pathData="M35,20l5,-10l5,10z" />
+</vector>
